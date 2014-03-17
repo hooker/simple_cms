@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>63EC3C8B-E0FC-4F61-86EB-405B0EA2E03F</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>63EC3C8B-E0FC-4F61-86EB-405B0EA2E03F</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va2gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAWAIAAAUAAAABAQAAVXNlcnMA
+				AAAGAAAAAQEAAGhvb2tlcgAABQAAAAEBAABTaXRlcwAA
+				AAoAAAABAQAAc2ltcGxlX2NtcwAAEAAAAAEGAAAEAAAA
+				FAAAACQAAAA0AAAACAAAAAQDAAAxvwAAAAAAAAgAAAAE
+				AwAAIwEFAAAAAAAIAAAABAMAAD32FwAAAAAACAAAAAQD
+				AADwwGICAAAAABAAAAABBgAAYAAAAHAAAACAAAAAkAAA
+				AAgAAAAABAAAQbjMRlIAAAAYAAAAAQIAAAIAAAAAAAAA
+				DwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAB
+				AAAABAAAAAMDAAACAAAABAAAAAMDAAD1AQAADAAAAAEB
+				AABNYWNpbnRvc2ggSEQIAAAABAMAAAAgiD06AAAACAAA
+				AAAEAABBs8b4AwAAACQAAAABAQAAMjlGMThCN0UtRDZC
+				Ny0zMTc0LUJDMUEtMjdGNTQ3N0Y1OUQ0GAAAAAECAACB
+				AAAAAQAIAO8XAAABAAgAAAAAAAAAAAABAAAAAQEAAC8A
+				AACvAAAAAQIAADU2Y2M0ZjA0YjE5M2E4NWM5NzUxNWQw
+				OGMzYWIxZTFhZDE5NjczMWY7MDAwMDAwMDA7MDAwMDAw
+				MDA7MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBwbGUuYXBw
+				LXNhbmRib3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAw
+				MDAwMzswMDAwMDAwMDAyNjJjMGYwOy91c2Vycy9ob29r
+				ZXIvc2l0ZXMvc2ltcGxlX2NtcwAA2AAAAP7///8BAAAA
+				AAAAABEAAAAEEAAASAAAAAAAAAAFEAAAoAAAAAAAAAAQ
+				EAAAyAAAAAAAAABAEAAAuAAAAAAAAABVEAAA8AAAAAAA
+				AABWEAAA6AAAAAAAAAACIAAAlAEAAAAAAAAQIAAAFAEA
+				AAAAAAARIAAASAEAAAAAAAASIAAAKAEAAAAAAAATIAAA
+				OAEAAAAAAAAgIAAAdAEAAAAAAAAwIAAA6AAAAAAAAAAB
+				wAAA/AAAAAAAAAARwAAAFAAAAAAAAAASwAAACAEAAAAA
+				AACA8AAAoAEAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/hooker/Sites/simple_cms/</string>
+				<key>RelativePath</key>
+				<string>./simple_cms</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>simple_cms</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
