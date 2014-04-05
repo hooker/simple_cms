@@ -5,3 +5,19 @@
 
 <% target = "world" %>
 <%= "Hello #{target}" %>
+
+<% @array.each do |n| %>
+	<%= n %><br>
+<% end %>
+
+<br>
+
+<a href="/demo/index">Index page</a><br>
+<%= link_to('Index page 2', {:action => 'index'}) %>
+<br>
+ID: <%= @id %><br>
+Next Page: <%= @page.to_i+1 %><br>
+
+<hr>
+
+<%= params.inspect %>
