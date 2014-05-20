@@ -1,6 +1,6 @@
 class DemoController < ApplicationController
   
-  layout false
+  layout 'application'
   
   def index
   end
@@ -14,6 +14,14 @@ class DemoController < ApplicationController
   
   def other_hello
   	redirect_to(:controller => 'demo', :action => 'index')
+  end
+  
+  def text_helpers
+  
+  end
+  
+  def escape_output
+  
   end
   
 end
